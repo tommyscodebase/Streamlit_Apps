@@ -95,4 +95,3 @@ if country:
             st_folium(m, width=300, height=300, use_container_width=True)
 else:
     st.write("Select a country to view its data")
-
